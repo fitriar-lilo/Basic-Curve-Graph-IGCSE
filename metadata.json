@@ -1,0 +1,6 @@
+{
+  "name": "Curve Graph Explorer - Interactive Math Studio",
+  "description": "Interactive learning activity for sketching parabolas, cubics, and hyperbolas from points, identifying roots, turning points, inflection points, and asymptotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
